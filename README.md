@@ -1,5 +1,5 @@
 # recipe-app-api
-# costly
+
 <div align="center">
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Paul-Mazu/recipe-app-api?color=1d7147&style=for-the-badge)
