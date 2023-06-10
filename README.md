@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="#About">About</a>  |
-  <a href="#Key Features">Key Features</a>  |
-  <a href="#Prototype">Prototype</a>  |
-  <a href="#Setup">Setup</a>  |
-  <a href="#API documentation">API documentation</a>  |
-  <a href="#Technologies Used">Technologies Used</a>  |
-  <a href="#Authors">Authors</a>
+  <a href="#about">About</a>  |
+  <a href="#key-features">Key Features</a>  |
+  <a href="#prototype">Prototype</a>  |
+  <a href="#setup">Setup</a>  |
+  <a href="#api-documentation">API documentation</a>  |
+  <a href="#technologies-used">Technologies Used</a>  |
+  <a href="#authors">Authors</a>
 </div>
 
 <br>
